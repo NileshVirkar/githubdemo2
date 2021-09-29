@@ -10,7 +10,7 @@
 				"uid": "6b2e26ad30cc78cbf9db2a1785fd34f0",
 				"projectName": "cwa",
 				"languages": [
-					"JAVA" 
+					"CPP" 
 				],
 				"sources": {
 					"baseDir": "/var/jenkins_home/jobs/Githubdemo_pipeline2/workspace",
