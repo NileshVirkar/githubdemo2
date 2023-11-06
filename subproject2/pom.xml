@@ -5,11 +5,6 @@
     <artifactId>corona</artifactId>
     <version>0.6.5-SNAPSHOT</version>
   </parent>
-  <packaging>pom</packaging>
   <artifactId>subproject2</artifactId>
   <name>subproject2</name>
-  <modules>
-  	<module>subproject2_A</module>
-  	<module>subproject2_B</module>
-  </modules>
 </project>
