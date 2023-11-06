@@ -4,6 +4,7 @@ public class DemoSubproject {
 
 	public static void main(String[] args) {
 		int k_subproject;
+		System.out.println("");
 	}
 	
 	public boolean unusedMethodSubproject(boolean k) {
